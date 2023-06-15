@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/h1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/tittle"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/h1"
+        style="@style/h2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/tv_subTitle"
+        android:textAlignment="center"
+        android:textColor="@color/grey"
+        app:layout_constraintEnd_toEndOf="@+id/title"
+        app:layout_constraintStart_toStartOf="@+id/title"
+        app:layout_constraintTop_toBottomOf="@+id/title" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/h2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_subTitle2"
+        android:textAlignment="center"
+        android:textColor="@color/grey"
+        app:layout_constraintEnd_toEndOf="@+id/h1"
+        app:layout_constraintStart_toStartOf="@+id/h1"
+        app:layout_constraintTop_toBottomOf="@+id/h1" />
+
+    <ImageView
+        android:id="@+id/ic_search_home"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_marginTop="64dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:srcCompat="@drawable/ic_home_search" />
+    <Button
+        android:id="@+id/button_scan"
+        style="@style/h2"
+        android:layout_width="275dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="80dp"
+        android:backgroundTint="@color/blue"
+        android:text="@string/tv_scan_batik"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:cornerRadius="90dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ic_search_home" />
+
+    <Button
+        android:id="@+id/button_import"
+        style="@style/h2"
+        android:layout_width="275dp"
+        android:layout_height="53dp"
+        android:backgroundTint="@color/blue"
+        android:elevation="40dp"
+        android:padding="10dp"
+        android:text="@string/tv_import_batik"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:cornerRadius="90dp"
+        app:layout_constraintEnd_toEndOf="@+id/button_scan"
+        app:layout_constraintStart_toStartOf="@+id/button_scan"
+        app:layout_constraintTop_toBottomOf="@+id/button_scan" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ic_search_home" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

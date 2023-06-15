@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BatiKita</string>
+    <string name="tittle">Scan Your Batik</string>
+    <string name="tv_subTitle">Find batik</string>
+    <string name="tv_subTitle2">you are looking for.</string>
+    <string name="tv_scan_batik">Scan Batik</string>
+    <string name="tv_import_batik">Import Batik Image</string>
+    <string name="motif_batik">Motif Batik</string>
+    <string name="tv_description">Description</string>
+    <string name="item_description">"Batik adalah kain Indonesia bergambar yang pembuatannya secara khusus dengan menuliskan atau menerakan malam pada kain itu, kemudian pengolahannya diproses dengan cara tertentu yang memiliki kekhasan. Sebagai keseluruhan teknik, teknologi, serta pengembangan motif dan budaya yang terkait, oleh UNESCO telah ditetapkan sebagai Warisan Kemanusiaan untuk Budaya Lisan dan Nonbendawi (Masterpieces of the Oral and Intangible Heritage of Humanity) sejak 2 Oktober 2009. Sejak saat itu, 2 Oktober ditetapkan sebagai Hari Batik Nasional."</string>
+    <string name="similar_motif">Similar Motif</string>
+    <string name="mega_mendung">Batik Mega Mendung Bandung</string>
+    <string name="tes_batik">Batik Megamendung</string>
+    <string name="tes_descrption">"Batik adalah kain Indonesia bergambar yang pembuatannya secara khusus dengan menuliskan atau menerakan malam pada kain itu, kemudian pengolahannya diproses dengan cara tertentu yang memiliki kekhasan. Sebagai keseluruhan teknik, teknologi, serta pengembangan motif dan budaya yang terkait, oleh UNESCO telah ditetapkan sebagai Warisan Kemanusiaan untuk Budaya Lisan dan Nonbendawi (Masterpieces of the Oral and Intangible Heritage of Humanity) sejak 2 Oktober 2009. Sejak saat itu, 2 Oktober ditetapkan sebagai Hari Batik Nasional.
+        Sejarah timbulnya motif megamendung berdasarkan buku dan literatur yang ada selalu mengarah pada sejarah kedatangan bangsa Tionghoa ke wilayah Cirebon. Hal ini tidak mengherankan karena pelabuhan Muara Jati di Cirebon merupakan tempat persinggahan para pendatang dari dalam dan luar negeri. Tercatat jelas dalam sejarah, bahwa Sunan Gunung Jati yang menyebarkan agama Islam di wilayah Cirebon pada abad ke-16, menikahi Ratu Ong Tien dari China. Beberapa benda seni yang dibawa dari China seperti keramik, piring dan kain berhiaskan bentuk awan.
+
+Dalam paham Taoisme, bentuk awan melambangkan dunia atas. Bentuk awan merupakan gambaran dunia luas, bebas dan mempunyai makna transidental (Ketuhanan). Konsep mengenai awan juga berpengaruh di dunia kesenirupaan Islam pada abad ke-16, yang digunakan kaum Sufi untuk ungkapan dunia besar atau alam bebas.
+
+Pernikahan Sunan Gunung Jati dengan Ratu Ong Tien menjadi pintu gerbang masuknya budaya dan tradisi China ke keraton Cirebon. Para pembatik keraton menuangkan budaya dan tradisi China ke dalam motif batik yang mereka buat, tetapi dengan sentuhan khas Cirebon, jadi ada perbedaan antara motif megamendung dari China dan yang dari Cirebon. Misalnya, pada motif megamendung China, garis awan berupa bulatan atau lingkaran, sedangkan yang dari Cirebon, garis awan, lancip dan segitiga.
+
+Sejarah batik di Cirebon juga terkait dengan perkembangan gerakan tarekat yang konon berpusat di Banjarmasin, Kalimantan Selatan. Membatik pada awalnya dikerjakan oleh anggota tarekat yang mengabdi di keraton sebagai sumber ekonomi untuk membiayai kelompok tarekat tersebut. Para pengikut tarekat tinggal di desa Trusmi dan sekitarnya. Desa ini terletak kira-kira 4 km dari Cirebon menuju ke arah barat daya atau menuju ke arah Bandung. Oleh karena itu, sampai sekarng batik Cirebon identik dengan batik Trusmi."</string>
+    <string name="batik_error">Batik Not Found</string>
+    <string name="tv_back_home">Return To Home Page</string>
+    <string name="batiKita">BatiKita App</string>
+
+</resources>
