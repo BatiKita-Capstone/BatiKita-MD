@@ -1,4 +1,5 @@
-#BatiKita-Capstone 
+# BatiKita-Capstone
+
 Batik is a traditional motif cloth originating from Indonesia. Batik is already well known around the world and batik also contributes big numbers to Indonesia’s economy, specifically in export. However, because batik has a lot of motifs, most people still do not know the meaning or the background story of each batik’s motif. Our team came up with an idea for an app that can recognize batik’s motif based on batik’s motif that has already spread around the market all over the world and provides the meaning and the background story of the Batik.
 
 We plan to use human-centered design techniques to develop an application that can help users to gain a better understanding of batik. Our research questions include: How can we recognize batik’s motif correctly? How can we provide similar batik’s motif? 
